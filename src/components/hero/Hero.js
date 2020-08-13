@@ -21,10 +21,10 @@ class Hero extends Component {
                 <h1 className="hero-title h2-mobile mt-0 is-revealing">{title}</h1>
                 <p className="hero-paragraph is-revealing">{content}</p>
               </div>
-
-              <NewsletterForm className="hero-form" submit="Apply Now" />
+              <a href="https://forms.gle/YHSVJQPYzExbNYsKA" target="_blank"><button type="button" className="button button-primary button-block button-shadow">Apply Now</button></a>
+              
             </div>
-
+            
             <div className="hero-illustration">
               <Illustration />
             </div>

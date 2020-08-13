@@ -14,7 +14,10 @@ const IndexPage = () => {
             fitness, hygiene, mental health, nutrition, etc.) based on the user’s personal health problems, 
             interests, and needs. This is derived through how they use the platform."
         illustration={HeroIllustration}
+        
       />
+      
+
     </Layout>
   )
 }
