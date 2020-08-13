@@ -1067,8 +1067,8 @@ label {
       /* .hero-copy width + offset */
       width: 9999px;
       height: 100vh;
-      background: #7FFF00;
-      background: linear-gradient(to bottom, 	#FDFC47 0, 	#24FE41 100%);
+      background: #8179f2;
+      background: linear-gradient(to bottom, #665DF0 0, #9B95F3 100%);
       background-repeat: no-repeat; } }
 
 /*--------------------------------------------------------------
@@ -1107,8 +1107,8 @@ label {
     right: 0;
     top: 0;
     bottom: -300px;
-    background:#000000;
-    background: linear-gradient(to bottom, #000000 0, #000000 100%); }
+    background: #8179f2;
+    background: linear-gradient(to bottom, #665DF0 0, #9B95F3 100%); }
   .hero-illustration svg {
     overflow: visible; }
 
@@ -1314,7 +1314,7 @@ main {
     padding: 8px; }
 
 .footer-links a {
-  color: #000000; }
+  color: #FFF; }
   .footer-links a:hover {
     color: #FFF; }
 
