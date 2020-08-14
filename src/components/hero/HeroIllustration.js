@@ -33,8 +33,8 @@ const HeroIllustration = () => {
           <defs>
             <radialGradient cx="56.15%" cy="27.43%" fx="56.15%" fy="27.43%" r="57.526%"
               gradientTransform="matrix(.5626 -.82673 .8022 .54591 .026 .589)" id="ball-1-a">
-              <stop stopColor="#cc2b5e" offset="0%" />
-              <stop stopColor="#cc2b5e" offset="34.827%" />
+              <stop stopColor="	#9932CC" offset="0%" />
+              <stop stopColor="	#9400D3" offset="34.827%" />
               <stop stopColor="#753a88" offset="100%" />
             </radialGradient>
             <filter x="-500%" y="-500%" width="1000%" height="1000%" filterUnits="objectBoundingBox"
@@ -58,8 +58,8 @@ const HeroIllustration = () => {
           <defs>
             <radialGradient cx="56.15%" cy="27.43%" fx="56.15%" fy="27.43%" r="57.526%"
               gradientTransform="matrix(.5626 -.82673 .8022 .54591 .026 .589)" id="ball-2-a">
-              <stop stopColor="#cc2b5e" offset="0%" />
-              <stop stopColor="#cc2b5e" offset="34.827%" />
+              <stop stopColor="	#9932CC" offset="0%" />
+              <stop stopColor="	#9400D3" offset="34.827%" />
               <stop stopColor="#753a88" offset="100%" />
             </radialGradient>
             <filter x="-500%" y="-500%" width="1000%" height="1000%" filterUnits="objectBoundingBox"
@@ -209,8 +209,8 @@ const HeroIllustration = () => {
           <defs>
             <radialGradient cx="56.15%" cy="27.43%" fx="56.15%" fy="27.43%" r="57.526%"
               gradientTransform="matrix(.5626 -.82673 .8022 .54591 .026 .589)" id="ball-3-a">
-              <stop stopColor="#cc2b5e" offset="0%" />
-              <stop stopColor="#cc2b5e" offset="34.827%" />
+              <stop stopColor="	#9932CC" offset="0%" />
+              <stop stopColor="	#9400D3" offset="34.827%" />
               <stop stopColor="#753a88" offset="100%" />
             </radialGradient>
             <filter x="-500%" y="-500%" width="1000%" height="1000%" filterUnits="objectBoundingBox"
@@ -234,8 +234,8 @@ const HeroIllustration = () => {
           <defs>
             <radialGradient cx="56.15%" cy="27.43%" fx="56.15%" fy="27.43%" r="57.526%"
               gradientTransform="matrix(.5626 -.82673 .8022 .54591 .026 .589)" id="ball-4-a">
-              <stop stopColor="#cc2b5e" offset="0%" />
-              <stop stopColor="#cc2b5e" offset="34.827%" />
+              <stop stopColor="	#9932CC" offset="0%" />
+              <stop stopColor="	#9400D3" offset="34.827%" />
               <stop stopColor="#753a88" offset="100%" />
             </radialGradient>
             <filter x="-500%" y="-500%" width="1000%" height="1000%" filterUnits="objectBoundingBox"
@@ -259,8 +259,8 @@ const HeroIllustration = () => {
           <defs>
             <radialGradient cx="56.15%" cy="27.43%" fx="56.15%" fy="27.43%" r="57.526%"
               gradientTransform="matrix(.5626 -.82673 .8022 .54591 .026 .589)" id="ball-5-a">
-              <stop stopColor="#cc2b5e" offset="0%" />
-              <stop stopColor="#cc2b5e" offset="34.827%" />
+              <stop stopColor="	#9932CC" offset="0%" />
+              <stop stopColor="	#9400D3" offset="34.827%" />
               <stop stopColor="#753a88" offset="100%" />
             </radialGradient>
             <filter x="-500%" y="-500%" width="1000%" height="1000%" filterUnits="objectBoundingBox"

@@ -12,7 +12,7 @@
 }
 
 .container {
-	max-width: $container__width + ( get-content-padding(desktop) * 2 );
+	max-width: $container__width;
 }
 
 .container-sm {

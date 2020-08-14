@@ -3,10 +3,13 @@ import Layout from '../layouts/index';
 import Hero from '../components/hero/Hero';
 import HeroIllustration from '../components/hero/HeroIllustration';
 
+
 const IndexPage = () => {
   return (
     <Layout>
+      
       <Hero
+
         title="Utopiia"
         content="A personalized health networking application with a built-in search engine. 
         The app will automatically facilitate resources (information, news, products, services, 
