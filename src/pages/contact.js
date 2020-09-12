@@ -21,7 +21,7 @@ const ContactPage = () => {
 
                                 <a href="tel:4436862271">443-686-2271 (Cornell Brown)</a>
                                 <br></br>
-                                <a href="mailto:csb0005@mix.wvu.edu">csb0005@mix.wvu.edu (Cornell Brown)</a></p>
+                                <a href="mailto:utopiiaapp@gmail.com">utopiiaapp@gmail.com (Utopiia Team)</a></p>
                 </div>
               </div>
             </div>
